@@ -4,19 +4,19 @@
 
 ## Table of Contents
 
-### [1. Server Updates Automation]()
-### [2. WordPress Updates and PHP Pool Permissions]()
-### [3. Automating WordPress Update Permissions with Bash Scripts]()
-### [4. Backup and Restore Practices]()
-### [5. Virus and Malware Scanning with ClamAV]()
-### [6. RKHunter – Rootkit and Backdoor Detection]()
-### [7. MariaDB InnoDB Database Tuning]()
-### [8. MariaDB Database Health Monitoring and Optimization]()
-### [9. MySQLTuner Usage and Optimization]()
-### [10. Server and Site Monitoring Overview]()
-### [11. Administering Disk Space on Ubuntu Server]()
-### [12. Configuring backlog in Nginx Listen Directive]()
-### [13. Server Maintenance Schedule Summary]()
+### [1. Server Updates Automation](documentation/1.md)
+### [2. WordPress Updates and PHP Pool Permissions](documentation/2.md)
+### [3. Automating WordPress Update Permissions with Bash Scripts](documentation/3.md)
+### [4. Backup and Restore Practices](documentation/4.md)
+### [5. Virus and Malware Scanning with ClamAV](documentation/5.md)
+### [6. RKHunter – Rootkit and Backdoor Detection](documentation/6.md)
+### [7. MariaDB InnoDB Database Tuning](documentation/7.md)
+### [8. MariaDB Database Health Monitoring and Optimization](documentation/8.md)
+### [9. MySQLTuner Usage and Optimization](documentation/9.md)
+### [10. Server and Site Monitoring Overview](documentation/10.md)
+### [11. Administering Disk Space on Ubuntu Server](documentation/11.md)
+### [12. Configuring backlog in Nginx Listen Directive](documentation/12.md)
+### [13. Server Maintenance Schedule Summary](documentation/13.md)
 
 ## About
 
